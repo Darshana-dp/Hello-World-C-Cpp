@@ -3,7 +3,7 @@
 A beginner-friendly collection of simple **C and C++ programs** for students learning the basics of programming and logic building.
 
 ## 👨‍💻 About
-This repository is maintained by **Darshana Ghodasaini**, a Computer Engineering student from Nepal 🇳🇵.  
+This repository is maintained by **Darshana Ghodasaini**, a Computer Engineering student .  
 The goal is to share small, clear, and well-documented examples for practice and learning.
 
 ## 🧩 Topics Covered
